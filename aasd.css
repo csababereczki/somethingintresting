@@ -1,6 +1,13 @@
 
-.NewStyle {
-    font-family: Garamond, "Times New Roman",  serif; font-size: 200%;
+.Text1 {
+    font-family: Garamond, "Times New Roman",  serif; font-size: 100%;
     font-weight: bold;
-    color: #FF0000;
+    color: red;
 }
+.link {
+    color: green;
+    background-color: none;
+    text-decoration: underline;
+}
+.body1 {
+    background: lightcyan;}
